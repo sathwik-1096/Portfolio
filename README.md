@@ -1,24 +1,42 @@
-# Exact Screenshot
+# Sathwik Parachikapu — Personal Portfolio
 
-Implement exactly the screenshot and nothing else
+A personal portfolio showcasing my technical skills, projects, and development experience.
 
-This project was built with [Lovable](https://lovable.dev).
+## Tech Stack
 
-## Build with Lovable
+* HTML, CSS, and JavaScript
+* React
+* TypeScript
+* Vite
+* TanStack Start
+* Tailwind CSS
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/996ea613-6daf-478d-b3d6-31d2e959b625).
+## Projects
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+### MediNear
+
+A pharmacy platform designed to help users discover nearby pharmacies and medicines.
+
+### Campus Connect
+
+A student portal designed to manage campus complaints, notices, events, and other student services.
 
 ## Development
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+Install dependencies:
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
 npm run dev
+```
+
+Create a production build:
+
+```bash
+npm run build
 ```
